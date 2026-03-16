@@ -9,12 +9,12 @@
 ## 2. NetAcad progress (Module 1)
 - Completed items: 1 module (full)
 - Screenshot(s): 
-  - ![progress] (imgs/image.png)
+![progress] (imgs/image.png)
 
 ## 3. VM evidence
 - File: `artifacts/day1/env.txt` exists: Yes
 - Screenshot(s):
-  - ![env.txt] (imgs/image2.png)
+![env.txt] (imgs/image2.png)
 
 ## 4. Repo structure (must match assignment)
 - `src/day1_api_hello.py` : Yes
