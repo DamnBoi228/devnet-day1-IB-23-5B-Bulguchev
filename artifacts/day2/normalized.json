@@ -1,0 +1,17 @@
+{
+  "computed": {
+    "title_len": 18
+  },
+  "student": {
+    "group": "IB235B",
+    "name": "Bulguchev",
+    "token": "D1-IB-23-5b-04-5F1C",
+    "token_hash8": "b167a8af"
+  },
+  "todo": {
+    "completed": false,
+    "id": 1,
+    "title": "delectus aut autem",
+    "userId": 1
+  }
+}
