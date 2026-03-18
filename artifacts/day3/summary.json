@@ -1,0 +1,34 @@
+{
+  "artifacts_sha256": {
+    "add100_report": "d368559ec3b13471f8b96001863714de78ba239adf50259aad9fff18d9311cc5",
+    "books_before": "537ae377e146dd5e4e566ac49ca9561c99a83f9f8fb54015cd160619a16f01a0",
+    "books_by_me": "1d150b0c0ef7038afc7c35af2df2a120fa3b337c8cf0c6f36fb38250fb4b9d24",
+    "books_sorted_isbn": "f925fd1050e36611a71faae521c9a591f3b0b678c21f39a5a702db1d052968b0",
+    "curl_get_books": "de64bae22fde03848fbeb14e2a6c661cf7e9eed12f29b574d596224bf5bf6bf9",
+    "curl_get_books_isbn": "ee1093008a5d89a75d9aaf8a2c8a7987c8841bce0c4028d02d32e78f083fb227",
+    "curl_get_books_sorted": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mybook_post": "7161ed693e1a7530f6080de2f96f7eb3cea8cdb950e9eba289d400fe32f36f7d",
+    "postman_collection": "b932826326cbcefa5f01530f3419f4aa4051a9db302c5eb81f1daa976713d745",
+    "postman_environment": "bd76f2f2ff3852408343807ae776388a574806b536638b56ec752df8ad0943f6"
+  },
+  "generated_utc": "2026-03-18T15:52:18.376935+00:00",
+  "lab": {
+    "apihost": "http://library.demo.local",
+    "must_use": {
+      "api_key_header": "X-API-KEY",
+      "books_endpoint": "http://library.demo.local/api/v1/books",
+      "login_endpoint": "http://library.demo.local/api/v1/loginViaBasic"
+    }
+  },
+  "schema_version": "3.1",
+  "student": {
+    "group": "IB235B",
+    "name": "Bulguchev",
+    "token": "D1-IB-23-5b-04-5F1C",
+    "token_hash8": "b167a8af"
+  },
+  "validation": {
+    "must_have_added_100": true,
+    "must_have_mybook_title_contains_token_hash8": true
+  }
+}

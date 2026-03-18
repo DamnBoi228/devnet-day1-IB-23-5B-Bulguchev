@@ -1,0 +1,30 @@
+{
+  "count": 4,
+  "items": [
+    {
+      "author": "Bulguchev",
+      "id": 5004,
+      "isbn": "978-04b167a8af",
+      "title": "My DevNet Book b167a8af"
+    },
+    {
+      "author": "Bulguchev",
+      "id": 6800,
+      "isbn": "978-1-01-174641-5",
+      "title": "Ameliorated client-driven productivity [b167a8af]"
+    },
+    {
+      "author": "Bulguchev",
+      "id": 6801,
+      "isbn": "978-0-09-059708-6",
+      "title": "Ameliorated discrete alliance [b167a8af]"
+    },
+    {
+      "author": "Bulguchev",
+      "id": 6802,
+      "isbn": "978-0-382-74152-4",
+      "title": "Progressive 4thgeneration firmware [b167a8af]"
+    }
+  ],
+  "status_code": 200
+}

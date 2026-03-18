@@ -1,0 +1,41 @@
+{
+  "count": 7,
+  "items": [
+    {
+      "author": "string",
+      "id": 0,
+      "title": "string"
+    },
+    {
+      "author": "author1",
+      "id": 1,
+      "title": "book1"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 2,
+      "title": "Linux for Networkers"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 3,
+      "title": "NetAcad: 20 Years Of Online-Learning"
+    },
+    {
+      "author": "author1",
+      "id": 4,
+      "title": "book1"
+    },
+    {
+      "author": "author3",
+      "id": 6,
+      "title": "book3"
+    },
+    {
+      "author": "Bulguchev",
+      "id": 5004,
+      "title": "My DevNet Book b167a8af"
+    }
+  ],
+  "status_code": 200
+}

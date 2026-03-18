@@ -1,0 +1,45 @@
+{
+  "added_fail": 0,
+  "added_ok": 100,
+  "api_key_sha256": "6bdb39ddda8833f14c8c76f2d6ae1e962619e2d8a0ca891f057f6f4dc818f197",
+  "author_used": "Bulguchev",
+  "count_requested": 100,
+  "generated_utc": "2026-03-18T15:44:33.629562+00:00",
+  "id_range": [
+    6800,
+    6899
+  ],
+  "sample_books": [
+    {
+      "author": "Bulguchev",
+      "id": 6800,
+      "isbn": "978-1-01-174641-5",
+      "title": "Ameliorated client-driven productivity [b167a8af]"
+    },
+    {
+      "author": "Bulguchev",
+      "id": 6801,
+      "isbn": "978-0-09-059708-6",
+      "title": "Ameliorated discrete alliance [b167a8af]"
+    },
+    {
+      "author": "Bulguchev",
+      "id": 6802,
+      "isbn": "978-0-382-74152-4",
+      "title": "Progressive 4thgeneration firmware [b167a8af]"
+    },
+    {
+      "author": "Bulguchev",
+      "id": 6803,
+      "isbn": "978-1-342-65675-9",
+      "title": "Implemented real-time project [b167a8af]"
+    },
+    {
+      "author": "Bulguchev",
+      "id": 6804,
+      "isbn": "978-1-233-16528-5",
+      "title": "Advanced analyzing artificial intelligence [b167a8af]"
+    }
+  ],
+  "tag": "b167a8af"
+}

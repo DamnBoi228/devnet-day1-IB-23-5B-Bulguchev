@@ -1,0 +1,15 @@
+{
+  "api_key_sha256": "6bdb39ddda8833f14c8c76f2d6ae1e962619e2d8a0ca891f057f6f4dc818f197",
+  "request": {
+    "author": "Bulguchev",
+    "id": 5004,
+    "isbn": "978-04b167a8af",
+    "title": "My DevNet Book b167a8af"
+  },
+  "response": {
+    "author": null,
+    "id": null,
+    "title": null
+  },
+  "status_code": 200
+}

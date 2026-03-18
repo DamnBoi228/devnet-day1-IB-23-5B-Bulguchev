@@ -1,0 +1,46 @@
+{
+  "count": 7,
+  "items": [
+    {
+      "author": "Bulguchev",
+      "id": 5004,
+      "isbn": "978-04b167a8af",
+      "title": "My DevNet Book b167a8af"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 2,
+      "isbn": "000-0000000123",
+      "title": "Linux for Networkers"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 3,
+      "isbn": "000-0000001123",
+      "title": "NetAcad: 20 Years Of Online-Learning"
+    },
+    {
+      "author": "author1",
+      "id": 1,
+      "isbn": "978-0471778646",
+      "title": "book1"
+    },
+    {
+      "author": "author1",
+      "id": 4,
+      "title": "book1"
+    },
+    {
+      "author": "author3",
+      "id": 6,
+      "title": "book3"
+    },
+    {
+      "author": "string",
+      "id": 0,
+      "isbn": "978-1578700714",
+      "title": "string"
+    }
+  ],
+  "status_code": 200
+}
