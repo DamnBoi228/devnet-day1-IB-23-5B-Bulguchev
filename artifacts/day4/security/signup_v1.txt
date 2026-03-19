@@ -1,0 +1,7 @@
+username has been registered.signup success  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   286  100    29  100   257   3625  32125 --:--:-- --:--:-- --:--:-- 35750
+username has been registered.  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   286  100    29  100   257   4142  36714 --:--:-- --:--:-- --:--:-- 40857
+username has been registered.
