@@ -1,0 +1,95 @@
+{
+	"info": {
+		"_postman_id": "b33e26bc-46de-4ee3-97c6-596937a5a6a2",
+		"name": "day5",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "52950330",
+		"_collection_link": "https://dimabulguchev-5090288.postman.co/workspace/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%91%D1%83%D0%BB%D0%B3%D1%83%D1%87%D1%91%D0%B2's-Workspace~5fe3d9b0-5b48-4713-8088-e1b23f7abcfb/collection/52950330-b33e26bc-46de-4ee3-97c6-596937a5a6a2?action=share&source=collection_link&creator=52950330"
+	},
+	"item": [
+		{
+			"name": "http://localhost:58000/api/v1/host",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-Auth-Token",
+						"value": "NC-146-ebf616c319e14c239d88-nbi",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:58000/api/v1/host",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "58000",
+					"path": [
+						"api",
+						"v1",
+						"host"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:58000/api/v1/network-device",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-Auth-Token",
+						"value": "NC-146-ebf616c319e14c239d88-nbi",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:58000/api/v1/network-device",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "58000",
+					"path": [
+						"api",
+						"v1",
+						"network-device"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
