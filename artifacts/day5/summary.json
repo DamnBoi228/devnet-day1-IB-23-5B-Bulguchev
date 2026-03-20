@@ -1,0 +1,16 @@
+{
+    "schema_version": "5.0",
+    "student": {
+        "name": "Bulguchev",
+        "group": "IB235B",
+        "token_hash8": "b167a8af"
+    },
+    "checks": {
+        "yang_interfaces_in_tree": true,
+        "webex_room_title_has_token_hash8": true,
+        "pt_empty_ticket_check": true,
+        "pt_network_devices_ok": true,
+        "pt_hosts_ok": true,
+        "docker_token_in_page": true
+    }
+}

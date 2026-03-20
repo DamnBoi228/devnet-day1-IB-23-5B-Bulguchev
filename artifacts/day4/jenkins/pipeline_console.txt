@@ -1,0 +1,30 @@
+Started by user admin
+Running in Durability level: MAX_SURVIVABILITY
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /var/jenkins_home/workspace/SamplePipeline
+[Pipeline] stage
+[Pipeline] { (Preparation)
+[Pipeline] catchError
+[Pipeline] sh
++ docker stop samplerunning
+samplerunning
+[Pipeline] sh
++ docker rm samplerunning
+samplerunning
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Build)
+[Pipeline] build (Building BuildAppJob)
+Scheduling project: BuildAppJob
+Starting building: BuildAppJob #1
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Results)
+[Pipeline] build (Building TestAppJob)
+Scheduling project: TestAppJob
+Starting building: TestAppJob #1
+[Pipeline] // stage
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS

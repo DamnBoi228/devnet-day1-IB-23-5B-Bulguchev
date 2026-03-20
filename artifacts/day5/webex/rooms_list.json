@@ -1,3 +1,52 @@
 {
-    "items": []
+    "items": [
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vOTAwOWVjYzAtMjQ0Yy0xMWYxLWIzOGItZDNiN2ZkZjYzMWVi",
+            "title": "DevNet Lab Room a03a1d51",
+            "type": "group",
+            "isLocked": false,
+            "lastActivity": "2026-03-20T11:04:28.786Z",
+            "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84OTk3ZGNmYy0xN2RmLTQ1NWMtOTQzNS1jOTM2NjVmY2Q4Yzg",
+            "created": "2026-03-20T11:04:27.788Z",
+            "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODFhOTVmNS03MzQ5LTRmNWItYmMwZC0xZTFmNTc0YjQxOWE",
+            "isPublic": false,
+            "isReadOnly": false
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vMzFkYzk0OTAtMjQ0Yy0xMWYxLTg1YjEtY2I4MWU1OGFkYTU4",
+            "title": "DevNet Lab Room a03a1d51",
+            "type": "group",
+            "isLocked": false,
+            "lastActivity": "2026-03-20T11:01:50.852Z",
+            "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84OTk3ZGNmYy0xN2RmLTQ1NWMtOTQzNS1jOTM2NjVmY2Q4Yzg",
+            "created": "2026-03-20T11:01:49.785Z",
+            "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODFhOTVmNS03MzQ5LTRmNWItYmMwZC0xZTFmNTc0YjQxOWE",
+            "isPublic": false,
+            "isReadOnly": false
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vMTAxODA0YzAtMjQ0Yy0xMWYxLTgxZjEtM2RjZmM4ZjhhNmYx",
+            "title": "DevNet Lab Room a03a1d51",
+            "type": "group",
+            "isLocked": false,
+            "lastActivity": "2026-03-20T11:00:54.217Z",
+            "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84OTk3ZGNmYy0xN2RmLTQ1NWMtOTQzNS1jOTM2NjVmY2Q4Yzg",
+            "created": "2026-03-20T11:00:53.132Z",
+            "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODFhOTVmNS03MzQ5LTRmNWItYmMwZC0xZTFmNTc0YjQxOWE",
+            "isPublic": false,
+            "isReadOnly": false
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZDFiOTMyNjAtMjQ0My0xMWYxLWIzOGItZDNiN2ZkZjYzMWVi",
+            "title": "DevNet Lab Room a03a1d51",
+            "type": "group",
+            "isLocked": false,
+            "lastActivity": "2026-03-20T10:01:53.516Z",
+            "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84OTk3ZGNmYy0xN2RmLTQ1NWMtOTQzNS1jOTM2NjVmY2Q4Yzg",
+            "created": "2026-03-20T10:01:52.519Z",
+            "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODFhOTVmNS03MzQ5LTRmNWItYmMwZC0xZTFmNTc0YjQxOWE",
+            "isPublic": false,
+            "isReadOnly": false
+        }
+    ]
 }

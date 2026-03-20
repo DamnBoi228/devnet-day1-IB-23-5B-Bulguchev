@@ -1,0 +1,2 @@
+CONTAINER ID                                                       IMAGE               COMMAND                                           CREATED             STATUS              PORTS                    NAMES
+b3edfe71a5841fbde8a6061de30aaa14e002c5f5abd699f62b33f0e4302e85ab   sampleapp           "/bin/sh -c 'python /home/myapp/sample_app.py'"   35 seconds ago      Up 34 seconds       0.0.0.0:5050->5050/tcp   samplerunning
