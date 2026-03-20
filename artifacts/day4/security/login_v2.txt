@@ -1,0 +1,10 @@
+login success  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   283  100    25  100   258   3125  32250 --:--:-- --:--:-- --:--:-- 35375
+Invalid username/password  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   270  100    13  100   257   1625  32125 --:--:-- --:--:-- --:--:-- 33750
+login success  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   274  100    13  100   261   1625  32625 --:--:-- --:--:-- --:--:-- 34250
+login success

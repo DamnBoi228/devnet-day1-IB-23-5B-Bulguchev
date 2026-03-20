@@ -1,1 +1,4 @@
+login success  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   270  100    13  100   257   1444  28555 --:--:-- --:--:-- --:--:-- 30000
 login success

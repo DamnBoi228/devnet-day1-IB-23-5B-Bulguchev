@@ -1,0 +1,7 @@
+signup success  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   271  100    14  100   257   1076  19769 --:--:-- --:--:-- --:--:-- 20846
+signup success  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   275  100    14  100   261    823  15352 --:--:-- --:--:-- --:--:-- 16176
+signup success
