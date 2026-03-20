@@ -1,0 +1,45 @@
+{
+  "checks": {
+    "ansible_port_8081": true,
+    "docker_token_in_page": false,
+    "docker_tokenproof": false,
+    "jenkins_pipeline_has_stages": false,
+    "security_db_has_tables": true
+  },
+  "evidence_sha256": {
+    "ansible_hello": "6b506fcd95eb0febede6e36542f9524299ecd459f7b11b6743bef44138cbb0fb",
+    "ansible_ping": "005e9245df2c530d64aee6bfec751dfc3ced4b06361f597e7fde4163bc44fd69",
+    "ansible_playbook_install": "780a930fdc01318e3b45c474d7947b8716a2433723aa3db9c981cff178781583",
+    "buildapp_console": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "curl_apache_8081": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "db_tables": "a6b72f95fe1f1775bb24bb8c5d5b49e05152f31acab0b426a684c0c28d51ce6f",
+    "db_user_hash_sample": "8c68d04d8bddadf80ae05ddda4c0fa7d42b9626fb1e63beb0d62b36505bbe3d6",
+    "docker_build_log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "docker_ps": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "docker_sampleapp_curl": "26bd24cb008243a68cf645c072a049b4580ec87b60c3ef7d8f4f96de8e9a8c33",
+    "docker_token_proof": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "jenkins_docker_ps": "b46330ae850f844cee9eddedefa65380a5d5d035a5e1f33231ae44c36f2c303b",
+    "jenkins_url": "185f195598830dbc315eb3a6741f97eace245e9d9d2a7225c5da77b87f27f3fc",
+    "login_v1": "ca4a8106e4f4e2e44db1811ff469acfcda6d7bade5199678ee4ef28b39e54712",
+    "login_v2": "a64859c97b01971cc99e033f06924e17c92f3f19bcd5f7b92d70b33bcb3b583d",
+    "pipeline_console": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "pipeline_script": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ports_conf_after": "8ee0ac8272eaa90ca6a9597cb472034768331e543d074cc72141b520ffb6f686",
+    "signup_v1": "160934e5410a09ae8dd40d9b6a30ea3756117baff90c2f6019001abf1d8a00dc",
+    "signup_v2": "11e017aa8ec99930fcf69f014e79c312ffd5c36e8357fad8ecd8a30cd5af73be",
+    "testapp_console": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "generated_utc": "2026-03-20T14:25:12.977625+00:00",
+  "run": {
+    "platform": "linux",
+    "python": "3.8.2"
+  },
+  "schema_version": "4.1",
+  "student": {
+    "group": "IB235B",
+    "name": "Bulguchev",
+    "token": "D1-IB-23-5b-04-5F1C",
+    "token_hash8": "b167a8af"
+  },
+  "validation_passed": false
+}
